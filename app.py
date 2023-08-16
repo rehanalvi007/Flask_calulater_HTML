@@ -1,5 +1,5 @@
 # create simple Flask application
-# Import libraries
+# Import module
 from flask import Flask,request,render_template
 
 #Instantiate the Flask module
